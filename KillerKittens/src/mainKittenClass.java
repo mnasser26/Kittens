@@ -17,19 +17,47 @@ public class mainKittenClass {
 		 * 4. Make them do battle.
 		 */
 		
-		/*
-		 * Title: ClassGeneralCharacter
+		/* Title: classGeneralCharacter
 		 * 
 		 * Data:
-		 * 	Type
-		 * 	LifePoints
-		 * 	AttackPoints
-		 * 	DefensePoints
-		 * 	ArmorPoints
+		 * 	-type: String
+		 * 	-alive: boolean 
+		 * 	-lifePoints: int
+		 * 	-attackPoints: int
+		 * 	-defensePoints: int
+		 * 	-armorPoints: int
 		 * 
 		 * Methods
-		 * 	GetLifePoints()
-		 * 	SetLifePoints()
+		 * 	+getLifePoints()
+		 * 	+setLifePoints()
+		 */
+		
+		/* Title: classSergeant extends classGrunt
+		 * 
+		 * Data: 
+		 * 	-callRetreat: boolean
+		 * 	-focusAttack: int
+		 * 	-battleExperience: double
+		 * 	
+		 * Methods:
+		 * 	+checkUnitLifePoints()
+		 * 	+setCallRetreat()
+		 * 	+getCallRetreat()
+		 */
+		
+		/* Title: classGrunt extends classGeneralCharacter
+		 * 
+		 * Data: 
+		 * 	-attackPointsWeapon: int
+		 * 	-defensePointsShield: int
+		 * 	
+		 * Methods:
+		 * 	+getAttackPoints
+		 * 	+setAttackPoints()
+		 * 	+getDefensePoints()
+		 * 	+setDefensePoints()
+		 * 	+getArmorPoints
+		 * 	+setArmorPoints
 		 */
 
 	}
