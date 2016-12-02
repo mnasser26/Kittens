@@ -10,10 +10,26 @@ public class mainKittenClass {
 		 * object oriented programming.
 		 * 
 		 * Project objectives for Jeremy: 
+		 * Make a general class character
 		 * 1. Make a basic grunt object.
-		 * 2. Make a basic sniper object.
-		 * 3. Make a clan that has snipers and grunts.
+		 * 2. Make a basic sergeant object.
+		 * 3. Make a clan that has sergeant and grunts.
 		 * 4. Make them do battle.
+		 */
+		
+		/*
+		 * Title: ClassGeneralCharacter
+		 * 
+		 * Data:
+		 * 	Type
+		 * 	LifePoints
+		 * 	AttackPoints
+		 * 	DefensePoints
+		 * 	ArmorPoints
+		 * 
+		 * Methods
+		 * 	GetLifePoints()
+		 * 	SetLifePoints()
 		 */
 
 	}
