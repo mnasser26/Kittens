@@ -1,9 +1,12 @@
 
-public class Sergeant {
+public class Sergeant extends classGrunt {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	static boolean callRetreat;
+	static int focusAttack;
+	static double battleExperience;
+	
+	public class checkUnitLifePoints {
+		
 	}
 
 }
