@@ -17,20 +17,9 @@ public class mainKittenClass {
 		 * 4. Make them do battle.
 		 */
 		
-		/* Title: classGeneralCharacter
-		 * 
-		 * Data:
-		 * 	-type: String
-		 * 	-alive: boolean 
-		 * 	-lifePoints: int
-		 * 	-attackPoints: int
-		 * 	-defensePoints: int
-		 * 	-armorPoints: int
-		 * 
-		 * Methods
-		 * 	+getLifePoints()
-		 * 	+setLifePoints()
-		 */
+		GeneralCharacter steve = new GeneralCharacter();
+		
+	
 		
 		/* Title: classSergeant extends classGrunt
 		 * 
@@ -50,6 +39,7 @@ public class mainKittenClass {
 		 * Data: 
 		 * 	-attackPointsWeapon: int
 		 * 	-defensePointsShield: int
+		 * 	-armorPoints: int
 		 * 	
 		 * Methods:
 		 * 	+getAttackPoints
