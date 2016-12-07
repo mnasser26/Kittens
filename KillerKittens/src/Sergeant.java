@@ -10,8 +10,8 @@ public class Sergeant extends classGrunt {
 	 * any consequences
 	 * Focus Attack: Double damage to all grunts for a while, but afterwards all the
 	 * grunts become more vulnerable
-	 * Veteran: General is a seasoned veteran, doubling all experience he might receive
-	 * Death Cry: If General gets killed, all grunts receive some f-ing overpowered buff
+	 * Veteran: Sergeant is a seasoned veteran, doubling all experience he might receive
+	 * Death Cry: If Sergeant gets killed, all grunts receive some f-ing overpowered buff
 	 * but if the match doesn't end soon the grunt will become near useless.
 	 *
 	 * 
