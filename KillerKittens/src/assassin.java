@@ -1,5 +1,6 @@
 
-public class assassin {
+public class assassin 
+	extends  {
 	/* 
 	 * Assassin extends grunt 
 	 * Assassins have more skills than 
