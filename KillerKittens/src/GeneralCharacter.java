@@ -22,7 +22,7 @@ public class GeneralCharacter {
 	
 	/* 
 	 * Methods
-	 * 	+getLifePoints()
+	 * 	+getALifePoints()
 	 * 	+setLifePoints()
 	 */
 
